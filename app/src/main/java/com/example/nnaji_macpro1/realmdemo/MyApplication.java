@@ -9,6 +9,8 @@ import io.realm.RealmConfiguration;
  * Created by Nnaji-MacPro1 on 10/9/17.
  */
 
+//Contains application level data
+//First class that is initialised when the app starts
 public class MyApplication extends Application {
     @Override
     public void onCreate() {
@@ -17,8 +19,9 @@ public class MyApplication extends Application {
         //Initiate Realm Library
         Realm.init(this);
         RealmConfiguration configuration= new RealmConfiguration.Builder()
-                .name ("myFirstRealm.realm")
+                .name ("myFirstRealm.realm")// customised DB name
                 .build();
+        Realm.setDefaultConfiguration(configuration);
 
     }
 }

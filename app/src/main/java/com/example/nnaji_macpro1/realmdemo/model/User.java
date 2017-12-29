@@ -14,13 +14,9 @@ public class User extends RealmObject {
     @PrimaryKey
     private String id;
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
+    private String name;
+    private  int age;
+    private SocialAccount socialAccount;
 
     public String getId() {
         return id;
@@ -28,6 +24,14 @@ public class User extends RealmObject {
 
     public void setId(String id) {
         this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public int getAge() {
@@ -46,9 +50,7 @@ public class User extends RealmObject {
         this.socialAccount = socialAccount;
     }
 
-    private String name;
-    private  int age;
-    private SocialAccount socialAccount;
+
 
 
 }

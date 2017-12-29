@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_9faf23d78a299ed6f676be9cee46eb4c47243326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_5e6d006cbe17ef6da5ae5fbf69fd792c3da5ddaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_35daf6c15d52c722632d1c2f3085bcd091a7a2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_b7313d9ead45c7f51fa5d9905855026452decef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_bb078c5d36e12a10e1a8c091d0d1d4e5322bd500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_92a383d048237a80bfc7d0c030410d5a01982b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/io.realm/realm-android-library/3.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aed23c739ad564efb5193b88bc785868f7de878b">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-3.0.0_230c96fb7af1c2680f5d632c168e586e2279af30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_fe81affaac55055865e1d74aefcc4ddfe201509d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_ebab7716c486bff303565edeb1b649762f2fc829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_4122e2f1f14873120e04c9ac972d82f078a27234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.0.0/32a01bbb8cb421b6d53d7a102412142b0391c8c7/realm-annotations-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="32a01bbb8cb421b6d53d7a102412142b0391c8c7">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/realm-annotations-3.0.0_34e5594dd9092d7ad2fa432294528194240943ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_6c4695d757eed417e86bb2d84eb580b5dd4ed786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nkechi_nnaji/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/nkechi_nnaji/Documents/RealmDB/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_c6dadb86d4ff58fc8f7eb0d385ebbc747329bf05.jar" />
+    </item>
+
+</items>
